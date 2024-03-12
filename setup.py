@@ -13,7 +13,6 @@ setup(
     install_requires=[
         'asyncio',
         'websockets',
-        'json'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',

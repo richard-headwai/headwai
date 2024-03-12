@@ -1,1 +1,1 @@
-from .headwai import *
+from .headwai import evaluate_correctness
